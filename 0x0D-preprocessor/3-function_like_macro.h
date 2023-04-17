@@ -1,4 +1,3 @@
-#include <stdio.h>
 #ifndef FUNCTION_LIKE_MACRO_H_
 #define FUNCTION_LIKE_MACRO_H_
 
